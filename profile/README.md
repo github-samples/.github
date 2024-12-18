@@ -2,7 +2,7 @@
 
 Welcome to the GitHub Samples organization!
 
-We provide a variety of sample projects and walkthroughs to help our community learn and experiment with GitHub. Explore our repositories to find examples and walkthroughs, across different programming languages and frameworks and areas of the GitHub platform.
+We provide a variety of sample projects and walkthroughs to help our community learn and experiment with GitHub. Explore our repositories to find examples and walkthroughs across different programming languages and frameworks and areas of the GitHub platform.
 
 ## Get Started
 
